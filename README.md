@@ -2,8 +2,7 @@
 
 # 🧠 Evaluación – Modelamiento de Base de Datos
 
-**Integrantes:**  
-Gabriela Gonzalez Peirano  
+**Integrante:**  
 Sergio Sandoval Valenzuela  
 
 **Profesor:** Sebastián Vásquez  
