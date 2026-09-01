@@ -15,15 +15,47 @@ Sergio Sandoval Valenzuela
 
 Este repositorio contiene el desarrollo de la actividad correspondiente a la Semana 3 de la asignatura Modelamiento de Base de Datos.
 
-El trabajo se basa en el caso de la línea aérea **BT&Airways** y da continuidad al modelamiento realizado durante la Semana 1. Para su desarrollo se utilizó **Oracle SQL Developer Data Modeler**, permitiendo representar las entidades, atributos y relaciones identificadas a partir de las reglas de negocio entregadas.
+El trabajo se basa en el caso de **HiLogic Solutions**, empresa dedicada a la venta de productos tecnológicos. Para su desarrollo se utilizó **Oracle SQL Developer Data Modeler**, construyendo un Modelo Entidad-Relación Extendido (MER-E) a partir de las reglas de negocio entregadas.
 
 ---
 
 ## 🎯 2. Propósito del proyecto
 
-El propósito de esta actividad es desarrollar el **Modelo Entidad-Relación (MER)** de BT&Airways, identificando las entidades involucradas, sus atributos, identificadores, obligatoriedad, relaciones y tipos de datos.
+El propósito de esta actividad es desarrollar el **Modelo Entidad-Relación Extendido (MER-E)** de HiLogic Solutions, identificando entidades, atributos, identificadores, relaciones, cardinalidades y jerarquías entre entidades.
+
+Durante el modelamiento se aplicaron conceptos como:
+
+- Supertipos y subtipos.
+- Herencia entre entidades.
+- Cardinalidad y opcionalidad.
+- Relaciones intransferibles.
+- Atributos en relaciones.
+- Tipos de datos.
 
 Como resultado, el repositorio contiene:
 
 - El documento con las evidencias de la actividad.
 - El archivo comprimido con el diseño realizado en Oracle SQL Developer Data Modeler.
+
+---
+
+## 🛠️ 3. Herramienta utilizada
+
+**Oracle SQL Developer Data Modeler**
+
+Se utilizó para construir y representar el modelo en las notaciones solicitadas durante la actividad.
+
+---
+
+## 📂 4. Contenido del repositorio
+
+- `HILOGIC_SOLUTIONS_Semana3.zip` → Diseño del modelo realizado en Data Modeler.
+- `PRY2204_Exp1_S3_Formato_respuesta...` → Documento con las evidencias de la actividad.
+- `README.md` → Descripción general del proyecto.
+
+---
+
+## 👨‍💻 Autor
+
+**Sergio Sandoval Valenzuela**  
+Analista Programador – Duoc UC
